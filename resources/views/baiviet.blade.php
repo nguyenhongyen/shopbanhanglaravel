@@ -1,0 +1,1 @@
+<a href="{{ route('login') }}">Bài viết</a> lỗi do không tìm thấy route  k hiểu luôn 
